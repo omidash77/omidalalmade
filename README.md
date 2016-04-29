@@ -28,7 +28,7 @@ Create 2 new files named "loggingids.json" and "user.txt"
 Open the file "bot.py" and replace following IDs with your options:
 
 ```
-API_TOKEN = 'YOUR TOKEN'
+API_TOKEN = '182660691:AAFSmGy9LxkMZ3MUuPqvoIPr2brpANGvYYs'
 ```
 This should be your Token received from Botfather.
 
@@ -45,8 +45,4 @@ python bot.py
 
 # Special thanks to
 [@digitalboys](https://telegram.me/digitalboys) - For open soruce 
-
-Admin : [@behroozyaghi](https://telegram.me/behroozyaghi) 
-channel : [@Nod32team](https://telegram.me/Nod32team) 
-
 
